@@ -1,4 +1,4 @@
-package com.kexin.commodity;
+package com.kexin.commodity.entity;
 
 import java.util.Date;
 

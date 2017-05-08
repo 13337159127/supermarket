@@ -3,9 +3,9 @@ package com.kexin.user.service;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.user.UserEntity;
 import com.kexin.user.dao.UserDao;
 import com.kexin.user.dao.UserDaoImpl;
+import com.kexin.user.entity.UserEntity;
 
 public class UserServiceImpl implements UserService {
 	/**

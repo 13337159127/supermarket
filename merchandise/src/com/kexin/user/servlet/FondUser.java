@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.kexin.user.UserEntity;
+import com.kexin.user.entity.UserEntity;
 import com.kexin.user.service.UserService;
 import com.kexin.user.service.UserServiceImpl;
 

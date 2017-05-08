@@ -3,9 +3,9 @@ package com.kexin.commodity.service;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.commodity.CommodityEntity;
 import com.kexin.commodity.dao.CommodityDao;
 import com.kexin.commodity.dao.CommodityDaoImpl;
+import com.kexin.commodity.entity.CommodityEntity;
 
 public class CommodityServiceImpl implements CommodityService {
 	/**

@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.kexin.classify.ClassifyEntity;
+import com.kexin.classify.entity.ClassifyEntity;
 import com.kexin.classify.service.ClassifyService;
 import com.kexin.classify.service.ClassifyServiceImpl;
 

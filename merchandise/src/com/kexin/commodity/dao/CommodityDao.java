@@ -4,7 +4,7 @@ import java.sql.Statement;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.commodity.CommodityEntity;
+import com.kexin.commodity.entity.CommodityEntity;
 
 public interface CommodityDao {
 	/**

@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.kexin.commodity.CommodityEntity;
+import com.kexin.commodity.entity.CommodityEntity;
 import com.kexin.commodity.service.CommodityService;
 import com.kexin.commodity.service.CommodityServiceImpl;
 

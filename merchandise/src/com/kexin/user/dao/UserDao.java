@@ -4,7 +4,7 @@ import java.sql.Statement;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.user.UserEntity;
+import com.kexin.user.entity.UserEntity;
 
 public interface UserDao {
 	/**

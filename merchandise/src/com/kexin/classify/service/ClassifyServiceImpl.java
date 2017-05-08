@@ -3,9 +3,9 @@ package com.kexin.classify.service;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.classify.ClassifyEntity;
 import com.kexin.classify.dao.ClassifyDao;
 import com.kexin.classify.dao.ClassifyDaoImpl;
+import com.kexin.classify.entity.ClassifyEntity;
 
 public class ClassifyServiceImpl implements ClassifyService {
 	/**

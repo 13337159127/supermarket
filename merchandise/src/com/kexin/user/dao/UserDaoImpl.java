@@ -11,7 +11,7 @@ import java.util.Map;
 
 import com.kexin.classify.dao.ClassifyDao;
 import com.kexin.classify.dao.ClassifyDaoImpl;
-import com.kexin.user.UserEntity;
+import com.kexin.user.entity.UserEntity;
 
 public class UserDaoImpl implements UserDao {
 	/**

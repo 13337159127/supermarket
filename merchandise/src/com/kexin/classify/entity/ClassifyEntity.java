@@ -1,4 +1,4 @@
-package com.kexin.classify;
+package com.kexin.classify.entity;
 
 public class ClassifyEntity {
 	// 商品分类ID

@@ -3,7 +3,7 @@ package com.kexin.commodity.service;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.commodity.CommodityEntity;
+import com.kexin.commodity.entity.CommodityEntity;
 
 public interface CommodityService {
 	/**

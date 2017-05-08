@@ -3,7 +3,7 @@ package com.kexin.classify.service;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.classify.ClassifyEntity;
+import com.kexin.classify.entity.ClassifyEntity;
 
 public interface ClassifyService {
 	/**

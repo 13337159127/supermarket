@@ -1,4 +1,4 @@
-package com.kexin.user;
+package com.kexin.user.entity;
 
 public class UserEntity {
 	// 用户id
