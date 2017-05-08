@@ -44,6 +44,7 @@ public class RegisterUser extends HttpServlet {
 		try {
 			UserService userservice = new UserServiceImpl();
 			List<Map<String, String>> list = userservice.fontUserName(username, password);
+			// 返回list的值，在servlet里面接收list的值。如果查询的值与数据库匹配，则list.size()>0，登录成功，否则登录失败
 			if (list.size() > 0) {
 				// session对象传用户名
 				HttpSession session = request.getSession();
