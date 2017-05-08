@@ -1,4 +1,4 @@
-package com.kexin.userdao;
+package com.kexin.user.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -9,8 +9,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.kexin.classifydao.ClassifyDao;
-import com.kexin.classifydao.ClassifyDaoImpl;
+import com.kexin.classify.dao.ClassifyDao;
+import com.kexin.classify.dao.ClassifyDaoImpl;
 import com.kexin.user.UserEntity;
 
 public class UserDaoImpl implements UserDao {

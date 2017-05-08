@@ -1,4 +1,4 @@
-package com.kexin.classifydao;
+package com.kexin.classify.dao;
 
 import java.sql.Statement;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.kexin.userservlet;
+package com.kexin.user.servlet;
 
 import java.io.IOException;
 import java.util.List;
@@ -12,8 +12,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.kexin.userservice.UserService;
-import com.kexin.userservice.UserServiceImpl;
+import com.kexin.user.service.UserService;
+import com.kexin.user.service.UserServiceImpl;
 
 /**
  * Servlet implementation class RegisterUserName

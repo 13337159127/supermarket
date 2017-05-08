@@ -1,4 +1,4 @@
-package com.kexin.classifyservice;
+package com.kexin.classify.service;
 
 import java.util.List;
 import java.util.Map;

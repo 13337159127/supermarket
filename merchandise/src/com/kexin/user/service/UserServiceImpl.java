@@ -1,11 +1,11 @@
-package com.kexin.userservice;
+package com.kexin.user.service;
 
 import java.util.List;
 import java.util.Map;
 
 import com.kexin.user.UserEntity;
-import com.kexin.userdao.UserDao;
-import com.kexin.userdao.UserDaoImpl;
+import com.kexin.user.dao.UserDao;
+import com.kexin.user.dao.UserDaoImpl;
 
 public class UserServiceImpl implements UserService {
 	/**

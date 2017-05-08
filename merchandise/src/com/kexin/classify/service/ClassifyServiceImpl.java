@@ -1,11 +1,11 @@
-package com.kexin.classifyservice;
+package com.kexin.classify.service;
 
 import java.util.List;
 import java.util.Map;
 
 import com.kexin.classify.ClassifyEntity;
-import com.kexin.classifydao.ClassifyDao;
-import com.kexin.classifydao.ClassifyDaoImpl;
+import com.kexin.classify.dao.ClassifyDao;
+import com.kexin.classify.dao.ClassifyDaoImpl;
 
 public class ClassifyServiceImpl implements ClassifyService {
 	/**

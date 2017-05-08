@@ -1,4 +1,4 @@
-package com.kexin.classifyservlet;
+package com.kexin.classify.servlet;
 
 import java.io.IOException;
 
@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.kexin.classifyservice.ClassifyService;
-import com.kexin.classifyservice.ClassifyServiceImpl;
+import com.kexin.classify.service.ClassifyService;
+import com.kexin.classify.service.ClassifyServiceImpl;
 
 /**
  * Servlet implementation class DeleteClassify

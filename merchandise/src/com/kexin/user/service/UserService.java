@@ -1,4 +1,4 @@
-package com.kexin.userservice;
+package com.kexin.user.service;
 
 import java.util.List;
 import java.util.Map;

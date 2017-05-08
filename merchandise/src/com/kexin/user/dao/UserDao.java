@@ -1,4 +1,4 @@
-package com.kexin.userdao;
+package com.kexin.user.dao;
 
 import java.sql.Statement;
 import java.util.List;

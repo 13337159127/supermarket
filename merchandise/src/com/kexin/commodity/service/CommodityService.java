@@ -1,4 +1,4 @@
-package com.kexin.commodityservice;
+package com.kexin.commodity.service;
 
 import java.util.List;
 import java.util.Map;

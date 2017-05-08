@@ -1,4 +1,4 @@
-package com.kexin.commodityservlet;
+package com.kexin.commodity.servlet;
 
 import java.io.IOException;
 import java.util.List;
@@ -11,10 +11,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.kexin.classifyservice.ClassifyService;
-import com.kexin.classifyservice.ClassifyServiceImpl;
-import com.kexin.commodityservice.CommodityService;
-import com.kexin.commodityservice.CommodityServiceImpl;
+import com.kexin.classify.service.ClassifyService;
+import com.kexin.classify.service.ClassifyServiceImpl;
+import com.kexin.commodity.service.CommodityService;
+import com.kexin.commodity.service.CommodityServiceImpl;
 
 /**
  * Servlet implementation class FondUpdateCommodity

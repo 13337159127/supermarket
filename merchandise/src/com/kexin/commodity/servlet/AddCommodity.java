@@ -1,4 +1,4 @@
-package com.kexin.commodityservlet;
+package com.kexin.commodity.servlet;
 
 import java.io.IOException;
 
@@ -10,10 +10,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.kexin.commodityservice.CommodityService;
-import com.kexin.commodityservice.CommodityServiceImpl;
-import com.kexin.userservice.UserService;
-import com.kexin.userservice.UserServiceImpl;
+import com.kexin.commodity.service.CommodityService;
+import com.kexin.commodity.service.CommodityServiceImpl;
+import com.kexin.user.service.UserService;
+import com.kexin.user.service.UserServiceImpl;
 
 /**
  * Servlet implementation class AddCommodity

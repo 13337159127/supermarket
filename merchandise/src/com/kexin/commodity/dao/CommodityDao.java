@@ -1,4 +1,4 @@
-package com.kexin.commoditydao;
+package com.kexin.commodity.dao;
 
 import java.sql.Statement;
 import java.util.List;
